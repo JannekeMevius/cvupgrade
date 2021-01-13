@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+.top-container {
+  background-color: #fbecec;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #f6f4e6;
+  height: 1000px;
+}
+
+.bottem-container {
+  background-color: #fbe2e5;
+  Height: 200px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottem-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
